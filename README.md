@@ -9,6 +9,7 @@
    <li>Checkbox</li>
   <li>Marquee tag</li>
   <li>nbsp (Non-Breaking space)</li>
+  <li>Adding Fonts From google</li>
   
 </ul>
  
@@ -17,6 +18,6 @@
 <pre>****************************************************************************************************************</pre>
 
 
-Project Link :https://vijay-kumar-mern-dev.github.io/Html-Timetable-Project/ <br>
+Project Link :https://vijay-kumar-mern-dev.github.io/HTML-Forms/<br>
 
 <img src="https://acegif.com/wp-content/uploads/thanks-for-watching.gif" alt="Happy Coding"  >
